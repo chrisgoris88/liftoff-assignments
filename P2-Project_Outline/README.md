@@ -7,11 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app wil be a web app that will be able to organize tournament play and allow others to register/sign up for certain tournaments. The app mostly will be used by me and others that I know in my area that attend regular tournaments. Hopefully, this web app will make it to where it will be easier for others to understand what is going on and will allow us to know who will be attending certain tournaments. The app will be able to tell people the schedule of tournament play and also will let them use a google maps api to give them directions on how to get there. 
 ### Features
-Include Features here
+The features that my app will use are as follows: Home/ Registration page, Schedule page with schedule displayed in list form, directions page that uses google maps api to direct people to the areas of the tournaments. 
 ### Technologies
-Include Technologies here
+This app will use Java, html, css, and link at least one api. 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to become more comfortable with Java and have to learn how to link the api. I also might include some bootstrap features to sharpen it up a little. 
